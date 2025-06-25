@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c80955-d83b-4aae-a8f4-6c0cd1b202ce" name="Changes" comment="juu">
-      <change afterPath="$PROJECT_DIR$/Rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Square.py" afterDir="false" />
+    <list default="true" id="39c80955-d83b-4aae-a8f4-6c0cd1b202ce" name="Changes" comment="its olmost good">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shaipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/shaipe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="circle" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +54,8 @@
     "Python.calculator.executor": "Run",
     "Python.shaipe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "shaipes"
+    "git-widget-placeholder": "square",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -86,7 +82,47 @@
       <option name="project" value="LOCAL‎" />
       <updated>1750773108774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="its olmost good">
+      <option name="closed" value="true" />
+      <created>1750834878814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750834878814</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="its olmost good">
+      <option name="closed" value="true" />
+      <created>1750835516678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750835516678</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="its olmost good">
+      <option name="closed" value="true" />
+      <created>1750835562182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750835562182</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="its olmost good">
+      <option name="closed" value="true" />
+      <created>1750835566563</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750835566563</updated>
+    </task>
+    <task id="LOCAL‎-00006" summary="its olmost good">
+      <option name="closed" value="true" />
+      <created>1750835580049</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1750835580049</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="juu" />
-    <option name="LAST_COMMIT_MESSAGE" value="juu" />
+    <MESSAGE value="its olmost good" />
+    <option name="LAST_COMMIT_MESSAGE" value="its olmost good" />
   </component>
 </project>
