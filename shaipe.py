@@ -10,4 +10,4 @@ class shape(ABC):
         pass
 
     def __str__(self):
-        return f"{self.__class__.__name__}{self.calculate_area()}{self.calculate_scope()}"
+        return f"{self.__class__.__name__} the area is {self.calculate_area()} and the scope is {self.calculate_scope()}"
